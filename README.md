@@ -21,5 +21,10 @@
    - A brief introduction to systematic and quant trading.
    - Understand its reach and spread in the current trading landscape.
    - Learn the benefits of quant trading.
-   - You will learn about the process of converting a trading idea from conception, to taking it live in an algorithmic trading setup.
    - Compare and contrast the traditional and quantitative trading styles.
+
+2. Day 2: The finer details: Working with data, formulating and backtesting a trading strategy
+   - Discuss various strategy paradigms.
+   - Learn about the strategy workflow.
+   - Explore data sources.
+   - Formulate a strategy and backtest it.
