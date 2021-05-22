@@ -13,3 +13,13 @@
 
 ### Result from Backtesting trading strategy on Blueshift
 <img src = "https://github.com/nriteshranjan/Algo-Trading-using-Python/blob/main/Cakedragon%20Tracker/output-backtestImage.png" width = 490 height = 263 title = "BackTest output">
+
+<br>
+
+#### Content wise detail of PPTs
+1. Day 1: The big picture
+   - A brief introduction to systematic and quant trading.
+   - Understand its reach and spread in the current trading landscape.
+   - Learn the benefits of quant trading.
+   - You will learn about the process of converting a trading idea from conception, to taking it live in an algorithmic trading setup.
+   - Compare and contrast the traditional and quantitative trading styles.
