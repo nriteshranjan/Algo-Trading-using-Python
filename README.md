@@ -1,4 +1,4 @@
-### Stock Data Analysis and basics of Trading Strategy
+## Stock Data Analysis and basics of Trading Strategy
 
 <br>
 
@@ -10,3 +10,6 @@
   This repository demonstrates the use of various libraries such as **Yahoo finance** to fetch stock data in OHLCV format. <br>
   Also various PPT's from Trading Workshop conducted by quantinsti are included for education purpose.
 </a>
+
+### Result from Backtesting trading strategy on Blueshift
+<img src = "https://github.com/nriteshranjan/Algo-Trading-using-Python/blob/main/Cakedragon%20Tracker/output-backtestImage.png" width = 890 height = 263 title = "BackTest output">
