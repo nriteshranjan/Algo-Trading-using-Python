@@ -12,4 +12,4 @@
 </a>
 
 ### Result from Backtesting trading strategy on Blueshift
-<img src = "https://github.com/nriteshranjan/Algo-Trading-using-Python/blob/main/Cakedragon%20Tracker/output-backtestImage.png" width = 690 height = 263 title = "BackTest output">
+<img src = "https://github.com/nriteshranjan/Algo-Trading-using-Python/blob/main/Cakedragon%20Tracker/output-backtestImage.png" width = 490 height = 263 title = "BackTest output">
